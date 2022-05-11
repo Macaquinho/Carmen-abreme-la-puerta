@@ -3,6 +3,7 @@
 Aqui simplemente nos dedicamos a escribir . Esto es un Parrafo.
 **negrita**  
 
+Esto es otro parrafo :smiling_imp:
 
 Enlace a [Google](https://www.google.com).
 
